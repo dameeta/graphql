@@ -1,3 +1,6 @@
+https://github.com/lucasbento/graphql-pokemon
+
+======================================================================
 server.js
 var { graphql, buildSchema } = require('graphql');
  
